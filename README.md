@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suraj-Roy
-- 📫 How to reach me kumarsurajroy365.5@gmail.com
+- 📫 How to reach me roysuraj365.5@gmail.com
 
 <!---
 Suraj-Roy/Suraj-Roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
