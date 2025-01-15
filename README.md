@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Suraj-Roy
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DSA using java
-- 💞️ I’m looking to collaborate on Django Projects
 - 📫 How to reach me kumarsurajroy365.5@gmail.com
 
 <!---
