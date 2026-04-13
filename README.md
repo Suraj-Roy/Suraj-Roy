@@ -1,6 +1,4 @@
 # 💫 About Me:
-I’m Suraj Kumar, a backend-focused software engineer passionate about building scalable, event-driven distributed systems. I enjoy working with microservices architecture and designing systems that are resilient, observable, and production-ready.<br><br>I primarily work with Java and Spring Boot, and I’ve been actively building projects around Kafka-based event streaming, API gateways, and notification systems (Email, SMS, Push). I also explore system design concepts like LLD/HLD, circuit breakers, rate limiting, and fault tolerance to make services robust at scale.<br><br>I have hands-on experience with tools like Docker, Kafka, Grafana, and Prometheus, and I enjoy building reliable backend systems and continuously improving how they perform in real-world environments.
-<br><br>Beyond coding, I focus on learning and refining my approach to system design and architecture.
 
 
 ## 🌐 Socials:
